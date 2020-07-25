@@ -130,3 +130,6 @@ splitAtPos = undefined -- COMPLETAR
 -- Hace findMin y deleteMin
 splitMin :: Ord a => Heap a -> (a, Heap a)
 splitMin h = undefined
+
+
+////// TENGO ALGO NUEVO AHORA 
